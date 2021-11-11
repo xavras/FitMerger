@@ -1,0 +1,12 @@
+﻿global using Dynastream.Fit;
+global using FitMerger.Service;
+global using FitMerger.Service.Extensions;
+global using Microsoft.Win32;
+global using Prism.Commands;
+global using System.ComponentModel;
+global using System.IO;
+global using System.Reflection;
+global using System.Runtime.CompilerServices;
+global using System.Runtime.InteropServices;
+global using System.Windows;
+global using System.Windows.Input;
